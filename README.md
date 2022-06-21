@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Carlos-Chau/TIPars/tree/binder/binder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Carlos-Chau/TIPars/binder)
 
 # Robust expansion of phylogeny for fast-growing genome sequence data
 
