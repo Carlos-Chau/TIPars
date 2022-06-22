@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Carlos-Chau/TIPars/binder)
+
 # Robust expansion of phylogeny for fast-growing genome sequence data
 
 TIPars is JAVA program to do fast and accurate insertion or placement of new samples onto 
