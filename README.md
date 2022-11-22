@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91c1a90e-5424-4b1f-8f9e-bac24a236555/deploy-status)](https://app.netlify.com/sites/tipars/deploys)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Carlos-Chau/TIPars/HEAD?labpath=TIPars.html)
 
 # Robust expansion of phylogeny for fast-growing genome sequence data
